@@ -23,3 +23,6 @@ If you're just getting started with Go, it might be beneficial to focus on learn
 For simple command-line tools or small applications, you might not necessarily need a framework. The Go standard library can provide most of the functionality you'll need.
 #### Building Web Applications: 
 If you're interested in building web applications with Go, then learning a web framework like Gin or Echo can be very helpful. These frameworks will streamline the development process and provide essential features for web development.
+
+After Basics.
+Following this : https://www.youtube.com/playlist?list=PL5dTjWUk_cPYztKD7WxVFluHvpBNM28N9
